@@ -330,12 +330,9 @@ main {
     justify-self: center;
     align-self: self-start;
   }
-
-  .header__theme-menu-list {
-    flex-direction: row;
-  }
   
   .header__theme-menu-list {
+    flex-direction: row;
     margin-top: -2px;
     gap: 11px;
   }
