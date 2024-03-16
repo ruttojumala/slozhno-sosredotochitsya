@@ -266,8 +266,8 @@
   }
 
   .content__section-why {
-    grid-template-columns: 236px 1fr;
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: 236px auto;
+    grid-template-rows: repeat(2, auto);
   }
 
   .content__section-why .content__section-title {
@@ -347,7 +347,7 @@
   }
 
   .content__section-why {
-    grid-template-columns: 314px 1fr;
+    grid-template-columns: 314px auto;
     column-gap: 20px;
   }
 
