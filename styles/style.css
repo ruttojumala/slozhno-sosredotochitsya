@@ -348,7 +348,7 @@
 
   .content__section-why {
     grid-template-columns: 314px 1fr;
-    column-gap: 10px;
+    column-gap: 20px;
   }
 
   .content__section-what {
