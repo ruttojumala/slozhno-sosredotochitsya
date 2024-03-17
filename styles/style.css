@@ -340,11 +340,7 @@
     flex-direction: row;
     gap: 11px;
   }
-
-  .header__title {
-    left: -20px;
-  }
-
+  
   .content__section-why {
     grid-template-columns: 314px auto;
     column-gap: 20px;
