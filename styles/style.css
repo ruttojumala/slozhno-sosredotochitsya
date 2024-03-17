@@ -324,7 +324,6 @@
 
 @media (width >= 1024px) {
   .header {
-    justify-items: center;
     align-items: center;
   }
 
@@ -343,7 +342,7 @@
   }
 
   .header__title {
-    left: -135px;
+    left: -20px;
   }
 
   .content__section-why {
